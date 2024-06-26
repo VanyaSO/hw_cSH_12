@@ -1,0 +1,14 @@
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/Task_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/Task_7.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/Task_7.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/Task_7.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/bin/Debug/net8.0/Task_7
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/bin/Debug/net8.0/Task_7.deps.json
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/bin/Debug/net8.0/Task_7.runtimeconfig.json
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/bin/Debug/net8.0/Task_7.dll
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/bin/Debug/net8.0/Task_7.pdb
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/Task_7.dll
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/refint/Task_7.dll
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/Task_7.pdb
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/Task_7.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_7/obj/Debug/net8.0/ref/Task_7.dll

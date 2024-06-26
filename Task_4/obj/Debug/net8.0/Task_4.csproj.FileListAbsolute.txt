@@ -1,0 +1,14 @@
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/bin/Debug/net8.0/Task_4
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/bin/Debug/net8.0/Task_4.deps.json
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/bin/Debug/net8.0/Task_4.runtimeconfig.json
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/bin/Debug/net8.0/Task_4.dll
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/bin/Debug/net8.0/Task_4.pdb
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/Task_4.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/Task_4.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/Task_4.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/Task_4.dll
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/refint/Task_4.dll
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/Task_4.pdb
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/Task_4.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/hw_cSH_12/Task_4/obj/Debug/net8.0/ref/Task_4.dll
